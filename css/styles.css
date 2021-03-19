@@ -3,7 +3,7 @@ img {
   margin-left: auto;
   margin-right: auto;
   width: 50%;
-  border: 1px solid #000;
+  border: 5px solid #595138;
 }
 body {
   background-color:#8C7B46;
@@ -39,4 +39,17 @@ margin-bottom: 50px;
 .margin-top {
   margin-top: 40px;
   margin-bottom: 40px;
+}
+
+.box {
+  background-color: #F2F2F2;
+  width: 300px;
+  border: 5px solid #595138;
+  padding: 50px;
+  margin: 50px;
+  float: left;
+}
+.fa-css3-alt {
+  font-size: 13rem;
+  color: #595138;
 }
