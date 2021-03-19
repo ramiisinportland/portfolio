@@ -5,8 +5,10 @@ img {
   width: 50%;
   border: 5px solid #595138;
 }
+
 body {
   background-color:#8C7B46;
+  font-family: 'Raleway', sans-serif;
 }
 h1, h2, h3 {
   color:#0D0D0D;
@@ -17,7 +19,7 @@ font-family: 'IBM Plex Serif', serif;
 .aboutme {
 font-family: 'Raleway', sans-serif;
 font-size: 1.5rem;
-font-weight: 700;
+font-weight: 900;
 margin-bottom: 50px;
 }
 .metitle {
@@ -27,6 +29,7 @@ margin-bottom: 50px;
   font-family: 'IBM Plex Serif', serif;
   font-size: 3rem;
   letter-spacing: 2px;
+  font-weight: 900;
 }
 .ul{
   list-style: none;
@@ -64,7 +67,20 @@ margin-bottom: 50px;
 }
 
 .nice-project {
-  font-size: 13rem;
+  font-size: 12rem;
   color: #595138;
+
   
+}
+.nice-skills {
+  font-size: 10rem;
+  color: #595138;
+
+}
+.font {
+  font-size:1.5rem;
+  font-weight: 900;
+}
+.strong{
+  font-weight: bolder;
 }
