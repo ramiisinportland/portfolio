@@ -12,9 +12,12 @@ body {
 }
 h1, h2, h3 {
   color:#0D0D0D;
+  font-family: 'Fredoka One', cursive;
+  letter-spacing: 2px;
 }
 .pretty {
-  font-family: 'IBM Plex Serif', serif;
+  font-family: 'Fredoka One', cursive;
+  letter-spacing: 2px;
 }
 .aboutme {
   font-family: 'Raleway', sans-serif;
@@ -78,3 +81,4 @@ h1, h2, h3 {
 .strong {
   font-weight: bolder;
 }
+
